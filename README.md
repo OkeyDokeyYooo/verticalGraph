@@ -19,8 +19,11 @@ input values, in order left to right, using hash '#' characters as shown in the 
 1. Input:
 1131
 Output:
+    
     #
     # ####
+    
+    
 The requirements mean that the graph fills a rectangular area with hashes and spaces, so this example is printed as:
      ' ', ' ', '#', ' ', '\n'
      ' ', ' ', '#', ' ', '\n'
@@ -30,6 +33,7 @@ In particular, notice the spaces before the newlines on the first two lines. The
 2. Input:
 345
 Output:
+    
     #
     ##
     ###
@@ -40,6 +44,7 @@ Output:
 3. Input:
 0 3 0 4 5
 Output:
+       
        #
       ##
     # ##
