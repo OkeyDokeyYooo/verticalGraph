@@ -16,23 +16,19 @@ input values, in order left to right, using hash '#' characters as shown in the 
 7. The entire graph must end with a newline character.
 
 ## Example
-1. Input:
-1131
-Output:
+1. Input:<br>
+1131<br>
+Output:<br>
     
     #
     # ####
     
-    
-The requirements mean that the graph fills a rectangular area with hashes and spaces, so this example is printed as:
-     ' ', ' ', '#', ' ', '\n'
-     ' ', ' ', '#', ' ', '\n'
-     '#', '#', '#', '#', '\n'
+   
 In particular, notice the spaces before the newlines on the first two lines. They are necessary.
 
-2. Input:
-345
-Output:
+2. Input:<br>
+345<br>
+Output:<br>
     
     #
     ##
@@ -41,9 +37,9 @@ Output:
     ###
     
     
-3. Input:
-0 3 0 4 5
-Output:
+3. Input:<br>
+0 3 0 4 5<br>
+Output:<br>
        
        #
       ##
