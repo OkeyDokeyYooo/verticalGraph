@@ -20,6 +20,7 @@ input values, in order left to right, using hash '#' characters as shown in the 
 1131<br>
 Output:<br>
     
+    
     #
     # ####
     
@@ -29,6 +30,8 @@ In particular, notice the spaces before the newlines on the first two lines. The
 2. Input:<br>
 345<br>
 Output:<br>
+    
+    
     
     #
     ##
@@ -40,6 +43,7 @@ Output:<br>
 3. Input:<br>
 0 3 0 4 5<br>
 Output:<br>
+       
        
        #
       ##
