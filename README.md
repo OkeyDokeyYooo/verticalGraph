@@ -20,7 +20,7 @@ input values. In order from left to right, using hash '#' characters as shown in
 1131<br>
 Output:<br>
 ```
->   #
+    #
     # ####
 ```
     
@@ -32,7 +32,6 @@ In particular, notice the spaces before the newlines on the first two lines. The
 Output:<br>
     
 ```
-    
     #
     ##
     ###
